@@ -1,0 +1,11 @@
+{
+    "cmake.debugConfig": {
+        "args": [
+            "${workspaceFolder}/Vocabulary/ORBvoc.txt", 
+            "${workspaceFolder}/Examples/Stereo/EuRoC.yaml",
+            "/home/penrose/Documents/Data/EuRoC/MH01",
+            "${workspaceFolder}/Examples/Stereo/EuRoC_TimeStamps/MH01.txt",
+            "dataset-MH01_stereo"
+        ],
+    }
+}
